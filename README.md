@@ -1,5 +1,5 @@
-# zingbing.in
-Public Repository for website ZingBing.in
+# https://www.techcatalogue.in
+Public Repository for website Tech Catalogue
 
 <img width="1741" alt="image" src="https://github.com/ashishonce/zingbing.com/assets/12728754/352c6518-c27f-4622-9a42-6c332a65f82e">
 
